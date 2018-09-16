@@ -1,4 +1,4 @@
-﻿namespace Udemy.Secao07.Aula114.Arquivos
+﻿namespace Udemy.Aula114.Arquivos
 {
     using System;
     using System.Collections.Generic;

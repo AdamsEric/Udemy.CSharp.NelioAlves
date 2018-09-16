@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace Udemy.Secao07.Aula110.Arquivos
+namespace Udemy.Aula110.Arquivos
 {
     class Program
     {

@@ -1,8 +1,8 @@
-﻿using System;
-using System.IO;
-
-namespace Udemy.Secao07.Aula111.Arquivos
+﻿namespace Udemy.Aula111.Arquivos
 {
+    using System;
+    using System.IO;
+
     class Program
     {
         static void Main(string[] args)

@@ -1,4 +1,4 @@
-﻿namespace Udemy.Secao07.Aula112.BlocoUsing
+﻿namespace Udemy.Secao07.Aula112.Arquivos
 {
     using System;
     using System.IO;

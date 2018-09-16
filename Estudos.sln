@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Secao07.Aula112.Bloco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Secao07.Aula113.StreamWriter", "Udemy.Secao07.Aula113.StreamWriter\Udemy.Secao07.Aula113.StreamWriter.csproj", "{5ECB30E6-C5EC-4713-81E4-41D908A54DA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Secao07.Aula114.Directory", "Udemy.Secao07.Aula114.Directory\Udemy.Secao07.Aula114.Directory.csproj", "{08E546DC-D248-43B7-BEF8-EA1AD9ABFC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Secao07.Aula115.Path", "Udemy.Secao07.Aula115.Path\Udemy.Secao07.Aula115.Path.csproj", "{B1C5D637-DF68-408B-9ED5-F65341079947}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{5ECB30E6-C5EC-4713-81E4-41D908A54DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ECB30E6-C5EC-4713-81E4-41D908A54DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ECB30E6-C5EC-4713-81E4-41D908A54DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E546DC-D248-43B7-BEF8-EA1AD9ABFC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E546DC-D248-43B7-BEF8-EA1AD9ABFC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E546DC-D248-43B7-BEF8-EA1AD9ABFC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E546DC-D248-43B7-BEF8-EA1AD9ABFC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C5D637-DF68-408B-9ED5-F65341079947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C5D637-DF68-408B-9ED5-F65341079947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C5D637-DF68-408B-9ED5-F65341079947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C5D637-DF68-408B-9ED5-F65341079947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

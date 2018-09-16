@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Udemy.Secao07.Aula111.FileStreamFileReader
+namespace Udemy.Secao07.Aula111.Arquivos
 {
     class Program
     {

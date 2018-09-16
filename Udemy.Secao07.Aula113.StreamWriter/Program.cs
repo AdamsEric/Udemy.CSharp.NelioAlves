@@ -1,4 +1,4 @@
-﻿namespace Udemy.Secao07.Aula113.Files
+﻿namespace Udemy.Secao07.Aula113.Arquivos
 {
     using System;
     using System.IO;
